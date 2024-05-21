@@ -1,0 +1,21 @@
+[
+  {
+    "role": "Junior Software Engineer",
+    "organisation": "Xit Solutions",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on pwc using reactjs and created many interfaces"],
+    "imageSrc": "history/xitlogo.png"
+  },
+  {
+    "role": "SWE Intern",
+    "organisation": "Xit Solutions",
+    "startDate": "June, 2023",
+    "endDate": "August, 2023",
+    "experiences": [
+      "Performed various operations on Edittable PDF Forms using pyPdf libarary",
+      "Created Angular APP"
+    ],
+    "imageSrc": "history/xitlogo.png"
+  }
+]
